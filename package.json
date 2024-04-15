@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "grunt": "^1.0.4",
-    "grunt-contrib-clean": "0.5.x",
+    "grunt-contrib-clean": "0.7.x",
     "grunt-contrib-copy": "0.4.x",
     "grunt-contrib-less": "^2.0.0",
     "grunt-contrib-watch": "^1.1.0",
